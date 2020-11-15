@@ -26,4 +26,7 @@
             <version>${ojalgo.version}</version>
         </dependency>
     </dependencies>
+    <issueManagement>
+        <system>GitHub</system>
+    </issueManagement>
 </project>
